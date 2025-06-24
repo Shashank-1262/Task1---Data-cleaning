@@ -34,7 +34,7 @@ a mean of 0 and standard deviation of 1.
 Shown the cleaned, transformed and scaled data using '.head()', '.describe()'.
 
 
-#**Task 2 Exploratory Data Analysis**
+# **Task 2 Exploratory Data Analysis**
 
 1. Loading, and Inspecting the Data
 Read the Titanic dataset in CSV format with the help of Pandas.
